@@ -1,0 +1,2 @@
+# delphimysqltvkabel
+Delphi project klien
